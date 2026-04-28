@@ -196,6 +196,7 @@ Making it a **next-generation emergency response system**.
 ## 👨‍💻 Author
 
 **Mousoom Samanta**
+**Anwesa Banerjee**
 
 ---
 
@@ -207,4 +208,4 @@ MIT License
 
 ## © Copyright
 
-© 2026 Mousoom Samanta. All rights reserved.
+© 2026 Mousoom Samanta, Anwesa Banerjee. All rights reserved.
